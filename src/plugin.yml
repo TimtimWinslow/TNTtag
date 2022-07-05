@@ -1,0 +1,11 @@
+name: TNTtag
+main: net.breakzone.tnttag.TNTtag
+version: 0.0.4
+api-version: 1.13
+author: Timtim Winslow
+description: A awesome TNTtag plugin
+commands:
+  tnttag:
+    description: All commands for TNT Tag.
+  tag:
+    description: All commands for TNT Tag.
